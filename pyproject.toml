@@ -7,7 +7,7 @@ authors = ["Kirk Strauser <kirk@strauser.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 beautifulsoup4 = "^4.8"
-lxml = "^4.3"
+lxml = "^4.9"
 requests = "^2.22"
 
 [tool.poetry.dev-dependencies]
